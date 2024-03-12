@@ -1,0 +1,16 @@
+# Schritt 3: Lokales Repository erstellen und initialisieren
+# Öffnen Sie die Kommandozeile oder das Terminal
+# Navigieren Sie zum Verzeichnis Ihres R-Pakets
+cd "C:\Users\umkehr\OneDrive - Sartorius Cellgenix GmbH\Dokumente\R Studio\Pakete\SartoriusDesign2"
+# Initialisieren Sie das lokale Git-Repository
+git init
+# Fügen Sie alle Dateien hinzu
+git add .
+# Führen Sie einen Commit durch
+git commit -m "Initial commit"
+
+# Schritt 4: Remote hinzufügen und hochladen
+# Fügen Sie die URL Ihres GitHub-Repositorys als Remote hinzu
+git remote add origin <URL>
+# Laden Sie Ihre Dateien hoch
+git push -u origin master
