@@ -11,6 +11,6 @@ git commit -m "Initial commit"
 
 # Schritt 4: Remote hinzufügen und hochladen
 # Fügen Sie die URL Ihres GitHub-Repositorys als Remote hinzu
-git remote add origin <URL>
+git remote add origin <https://github.com/Benutzername/SartoriusDesign2.git>
 # Laden Sie Ihre Dateien hoch
 git push -u origin master
