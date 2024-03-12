@@ -1,0 +1,13 @@
+Package: SartoriusDesign
+Type: Package
+Title: Sartorius Design Color Palette
+Version: 0.1.0
+Author: Marie-Claire Umkehr
+Maintainer: Marie-Claire Umkehr <umkehr@cellgenix.com>
+  Description: A custom color palette package for R.
+License: GPL-3
+  Encoding: UTF-8
+LazyData: true
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.3.1
